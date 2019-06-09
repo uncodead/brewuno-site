@@ -365,7 +365,7 @@ button:focus {
 }
 
 .custom-nav .navbar-brand.logo img {
-    height: 58px;
+    /*height: 58px;*/
 }
 
 .custom-nav .sign_btn {
