@@ -838,7 +838,7 @@ ul.footer_menu_list li a {
         display: none;
     }
     .custom-nav .navbar-brand.logo img {
-        height: 26px;
+        /*height: 26px;*/
     }
     .navbar-nav {
         margin-top: 0px;
