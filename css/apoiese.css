@@ -1,0 +1,23 @@
+/* CONFIGURE O TAMANHO DO BOTÃO ALTERANDO OS # */
+.apoia-button {
+    float:left
+    width: 160px; /* # */
+}
+a.apoia-link {
+    padding:3px 6px 2px 6.5px; /* # */
+    color: #fff;
+    font-size: 11px; /* # */
+    background: #eb4a3b;
+    border-radius: 3px; /* # */
+    -webkit-transition: width 2s; /* Safari */
+    transition: background 2s;
+}
+a.apoia-link:hover {
+    background:rgba(235,74,59,0.8);
+    text-decoration:none;
+}
+img.apoia-img {
+    height: 10px; /* # */
+    position: relative;
+    top: -1px;
+}
